@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  pathPrefix: "/hello-world",
+  pathPrefix: "/GatsbyPlay",
 }
